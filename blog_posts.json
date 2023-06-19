@@ -1,0 +1,30 @@
+[
+ {
+  "id": 1,
+  "author": "Nathan",
+  "title": "First Post - Indent Check",
+  "content": "Making sure indent of JSON file works after adding update route",
+  "likes": 3
+ },
+ {
+  "id": 3,
+  "author": "Nathan",
+  "title": "Post ID check",
+  "content": "Checking to see if the code appends the correct ID in the JSON file *UPDATE* - checking update route works properly",
+  "likes": 2
+ },
+ {
+  "id": 4,
+  "author": "Nathan",
+  "title": "First Flask Application",
+  "content": "Almost finished with my first Flask web application. Easy to understand and implement! Just having issues with GIT now..",
+  "likes": 2
+ },
+ {
+  "id": 5,
+  "author": "Nathan",
+  "title": "Indent Check 2",
+  "content": "Checking indent after creating function to save blogs to JSON file\r\n\r\n*UPDATE* (Worked when adding new blog. Checking for after update",
+  "likes": 2
+ }
+]
